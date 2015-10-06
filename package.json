@@ -1,0 +1,8 @@
+{
+  "name": "cardProcessorHandler",
+  "description": "Credit Card Processor",
+  "version": "0.0.1",
+  "dependencies": {
+    "tape": "^4.2.0"
+  }
+}
